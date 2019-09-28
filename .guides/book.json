@@ -1,0 +1,17 @@
+{
+ "name": "IT202-mcw-test",
+ "children": [
+  {
+   "title": "Page 1",
+   "id": "70193c8d-606f-bcc9-3fe0-36eda118f112",
+   "pageId": "70193c8d-606f-bcc9-3fe0-36eda118f112",
+   "type": "page"
+  },
+  {
+   "title": "Page 2",
+   "id": "737c6ea2-a1bc-42fe-a0a3-3cfeb74d196e",
+   "pageId": "737c6ea2-a1bc-42fe-a0a3-3cfeb74d196e",
+   "type": "page"
+  }
+ ]
+}
